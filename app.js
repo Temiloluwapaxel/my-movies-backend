@@ -90,3 +90,7 @@ const start = async () => {
 
 start();
 // Calls the `start` function to initiate the server and database connection.
+
+//jesusanmisiretemiloluwa
+//WjD3a3rkirae9z03
+//mongodb+srv://jesusanmisiretemiloluwa:WjD3a3rkirae9z03@cluster0.48hr7.mongodb.net/My-Films?retryWrites=true&w=majority&appName=Cluster0
